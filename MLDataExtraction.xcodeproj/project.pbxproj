@@ -36,6 +36,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		06EF3B4321585E47000608E3 /* DataExtractionML.xmind */ = {isa = PBXFileReference; lastKnownFileType = file; path = DataExtractionML.xmind; sourceTree = "<group>"; };
 		06FFF2D1214ED8B5001EFA23 /* MLDataExtraction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MLDataExtraction.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06FFF2D4214ED8B5001EFA23 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		06FFF2D6214ED8B5001EFA23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 				06FFF2E9214F2FA5001EFA23 /* TrainMLModel.swift */,
 				06FFF2F0214F2FB4001EFA23 /* Shell.swift */,
 				06FFF2EF214F2FB4001EFA23 /* split.sh */,
+				06EF3B4321585E47000608E3 /* DataExtractionML.xmind */,
 				06FFF2E2214F2F8E001EFA23 /* Extensions */,
 				06FFF2D6214ED8B5001EFA23 /* Assets.xcassets */,
 				06FFF2D8214ED8B5001EFA23 /* MainMenu.xib */,
